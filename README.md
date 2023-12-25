@@ -1,4 +1,4 @@
-#GANBoostRL - Supercharge Reinforcement Learning with GAN-based Data Augmentation
+# GANBoostRL - Supercharge Reinforcement Learning with GAN-based Data Augmentation
 
 ## Overview:
 
